@@ -18,14 +18,15 @@ Castro MP, Fonseca P, Morais ST, Borgonovo-Santos M, Coelho EFC, Ribeiro DC, Vil
 - Guimarães E, Baxter-Jones A, Maia J, Fonseca P, Santos A, Santos E, Tavares F, Janeira MA. **The Roles of Growth, Maturation, Physical Fitness, and Technical Skills on Selection for a Portuguese Under-14 Years Basketball Team.** Sports (Basel). 2019 Mar 8;7(3):61. doi: https://doi.org/10.3390/sports7030061.
 
 # SYSTEMATIC REVIEWS
-### Bibliometric Analysus
+A brief summary of publications focused on gathering the current evidence available in the scientific literature.
+
+### Bibliometric Analysis
 - Fonseca P, Goethel M, Vilas-Boas JP, Gutierres M, Correia MV. **A Bibliometric Analysis of Intraoperative Neuromonitoring in Spine Surgery**. World Neurosurg. 2021 Oct;154:3-12. https://doi.org/10.1016/j.wneu.2021.07.039.
 
 
 ### Systematic Reviews
 - Leite, I.; Fonseca, P.; Ávila-Carvalho, L.; Vilas-Boas, J.P.; Goethel, M.; Mochizuki, L.; Conceição, F. **Biomechanical Research Methods Used in Acrobatic Gymnastics: A Systematic Review.** Biomechanics 2023, 3, 52-68. https://doi.org/10.3390/biomechanics3010005
-- Alves M, Carvalho DD, Fernandes RJ, Vilas-Boas JP. **How Anthropometrics of Young and Adolescent Swimmers Influence Stroking Parameters and Performance? A Systematic Review.** Int J Environ Res Public Health. 2022 Feb 22;19(5):2543. https://doi.org/10.3390/ijerph19052543.
-- 
+
 ### Systematic Reviews with Meta-Analysis
 - Fonseca P, Goethel M, Vilas-Boas JP, Gutierres M, Correia MV. **A systematic review with meta-analysis of the diagnostic test accuracy of pedicle screw electrical stimulation**. Eur Spine J. 2022 Jul;31(7):1599-1610. https://10.1007/s00586-022-07218-7.
 
