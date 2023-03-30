@@ -1,9 +1,6 @@
 # **ORIGINAL PUBLICATIONS**
 A brief summary of publications on some of our current research topics.
 
-## Swimming
-Sequeira M, Simões F, Quental C, Ambrósio J, Fonseca P, Vilas-Boas JP, Nakashima M. Biomechanical framework for the inverse dynamic analysis of swimming using hydrodynamic forces from swumsuit. Comput Methods Biomech Biomed Engin. 2022 Sep 10:1-9. doi: 10.1080/10255842.2022.2119384. Epub ahead of print. PMID: 36093767.
-
 ## Experimentally induced pain
 Becker, K.; Goethel, M.; Fonseca, P.; Vilas-Boas, J.P.; Ervilha, U. **The Strategy of the Brain to Maintain the Force Production in Painful Contractions—A Motor Units Pool Reorganization**. Cells 2022, 11, 3299. https://doi.org/10.3390/cells11203299
 
