@@ -1,4 +1,4 @@
-## **PUBLICATIONS**
+# **PUBLICATIONS**
 A brief summary of publications on some of our current research topics.
 
 ## Swimming
@@ -10,4 +10,8 @@ A brief summary of publications on some of our current research topics.
 
 
 ## Oxygen Consumption
+
+# TECHNICAL PUBLICATIONS
+A brief summary of publications with a more technical emphasis, or that can be used as supporting literature when developing an experimental setup.
+
 
