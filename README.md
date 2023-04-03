@@ -5,15 +5,17 @@ A brief summary of publications on some of our current research topics.
 Becker, K.; Goethel, M.; Fonseca, P.; Vilas-Boas, J.P.; Ervilha, U. **The Strategy of the Brain to Maintain the Force Production in Painful Contractions—A Motor Units Pool Reorganization**. Cells 2022, 11, 3299. https://doi.org/10.3390/cells11203299
 
 ## Gait
-<details>
-## Muscle Strength
-Castro MP, Fonseca P, Morais ST, Borgonovo-Santos M, Coelho EFC, Ribeiro DC, Vilas-Boas JP. **Functional shoulder ratios with high velocities of shoulder internal rotation are most sensitive to determine shoulder rotation torque imbalance: a cross-sectional study with elite handball players and controls.** Sports Biomech. 2019 Feb;18(1):39-50. https://doi.org/10.1080/14763141.2017.1380222.
 
+## Muscle Strength
+<details>
+<summary>Publications relating to any form of muscle strength measurement and analysis</summary>
+Castro MP, Fonseca P, Morais ST, Borgonovo-Santos M, Coelho EFC, Ribeiro DC, Vilas-Boas JP. **Functional shoulder ratios with high velocities of shoulder internal rotation are most sensitive to determine shoulder rotation torque imbalance: a cross-sectional study with elite handball players and controls.** Sports Biomech. 2019 Feb;18(1):39-50. https://doi.org/10.1080/14763141.2017.1380222.
+</details>
 ## Oxygen Consumption
 
 ## Sports
 - Guimarães E, Baxter-Jones A, Maia J, Fonseca P, Santos A, Santos E, Tavares F, Janeira MA. **The Roles of Growth, Maturation, Physical Fitness, and Technical Skills on Selection for a Portuguese Under-14 Years Basketball Team.** Sports (Basel). 2019 Mar 8;7(3):61. doi: https://doi.org/10.3390/sports7030061.
-</details>
+
 # SYSTEMATIC REVIEWS
 A brief summary of publications focused on gathering the current evidence available in the scientific literature.
 
