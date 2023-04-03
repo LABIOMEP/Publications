@@ -7,10 +7,8 @@ Becker, K.; Goethel, M.; Fonseca, P.; Vilas-Boas, J.P.; Ervilha, U. **The Strate
 ## Gait
 
 ## Muscle Strength
-<details>
-<summary>Publications relating to any form of muscle strength measurement and analysis</summary>
+
 - Castro MP, Fonseca P, Morais ST, Borgonovo-Santos M, Coelho EFC, Ribeiro DC, Vilas-Boas JP. **Functional shoulder ratios with high velocities of shoulder internal rotation are most sensitive to determine shoulder rotation torque imbalance: a cross-sectional study with elite handball players and controls.** Sports Biomech. 2019 Feb;18(1):39-50. https://doi.org/10.1080/14763141.2017.1380222.
-</details>
 
 ## Oxygen Consumption
 
